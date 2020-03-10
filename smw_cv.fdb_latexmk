@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1583858032 "/Users/white/Documents/cv/smw_cv.tex" "/Users/white/Documents/cv/smw_cv.pdf" "smw_cv" 1583858033
-  "/Users/white/Documents/cv/smw_cv.aux" 1583858033 1216 c88c12ce06acb98679befa13b90c4006 ""
+["pdflatex"] 1583860425 "/Users/white/Documents/cv/smw_cv.tex" "/Users/white/Documents/cv/smw_cv.pdf" "smw_cv" 1583860426
+  "/Users/white/Documents/cv/smw_cv.aux" 1583860426 1216 c88c12ce06acb98679befa13b90c4006 ""
   "/Users/white/Documents/cv/smw_cv.tex" 1583857759 7949 9fd4ba08ceb9b3868b7b6b394f7941ec ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc" 1276641224 6938 5135be6a8802f13a7faf296d1959a1ab ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -92,13 +92,13 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1557342086 4259635 562fc36ec496993777a6c428d8bfb811 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "smw_cv.aux" 1583858033 1216 c88c12ce06acb98679befa13b90c4006 "pdflatex"
-  "smw_cv.out" 1583858033 246 08eeec7c5396c955a9d0aa509d96869b "pdflatex"
+  "smw_cv.aux" 1583860426 1216 c88c12ce06acb98679befa13b90c4006 "pdflatex"
+  "smw_cv.out" 1583860426 246 08eeec7c5396c955a9d0aa509d96869b "pdflatex"
   "smw_cv.tex" 1583857759 7949 9fd4ba08ceb9b3868b7b6b394f7941ec ""
   (generated)
-  "smw_cv.log"
+  "/Users/white/Documents/cv/smw_cv.log"
   "smw_cv.aux"
   "/Users/white/Documents/cv/smw_cv.pdf"
-  "/Users/white/Documents/cv/smw_cv.log"
-  "smw_cv.out"
+  "smw_cv.log"
   "smw_cv.pdf"
+  "smw_cv.out"
